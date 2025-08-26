@@ -1,0 +1,142 @@
+{
+    "better-comments.highlightPlainText": true,
+    "diffEditor.codeLens": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "block",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 14,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.fontWeight": "400",
+    "editor.insertSpaces": true,
+    "editor.letterSpacing": 0.2,
+    "editor.lineHeight": 1.8,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.scrollPredominantAxis": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.tabSize": 2,
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "never",
+    "github.copilot.chat.editor.temporalContext.enabled": true,
+    "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
+    "html.format.wrapLineLength": 150,
+    "php.suggest.basic": false,
+    "prettier.bracketSpacing": false,
+    "prettier.printWidth": 200,
+    "prettier.quoteProps": "consistent",
+    "problems.showCurrentInStatus": true,
+    "redhat.telemetry.enabled": true,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "workbench.editor.pinnedTabSizing": "shrink",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.svg": "default"
+    },
+    "workbench.panel.opensMaximized": "always",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            150
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off",
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "dart.lineLength": 150,
+    "atlascode.jira.lastCreateSiteAndProject": {
+        "siteId": "d8ccdcfa-e278-481a-81ae-4a1b244a2ded",
+        "projectKey": "MRKR"
+    },
+    "database-client.autoSync": true,
+    "workbench.secondarySideBar.defaultVisibility": "visible",
+    "editor.dropIntoEditor.enabled": false,
+    "chat.tools.autoApprove": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "[snippets]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.colorCustomizations": {
+        "debugConsole.errorForeground": "#FF0000",
+        "debugConsole.warningForeground": "#FFFF00",
+        "debugConsoleInputIcon.foreground": "#00AAFF",
+        // "editor.background": "#000000",
+        // "sideBar.background": "#000000",
+        // "activityBar.background": "#000000",
+        // "titleBar.activeBackground": "#000000"
+    },
+    // "workbench.colorTheme": "Dark+ Pure Black (OLED)",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "terminal.integrated.fontSize": 14,
+    "debug.console.fontSize": 14,
+    "scm.inputFontSize": 14,
+    "chat.editor.fontSize": 14,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "chat.mcp.serverSampling": {
+        "Global in Code: sentry": {
+            "allowedModels": [
+                "github.copilot-chat/claude-3.7-sonnet-thought",
+                "github.copilot-chat/claude-sonnet-4"
+            ]
+        }
+    },
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "markdown-preview-enhanced.previewTheme": "atom-light.css",
+    "workbench.secondarySideBar.showLabels": false,
+    "markdown-preview-enhanced.revealjsTheme": "blood.css",
+    "window.restoreWindows": "none",
+    "workbench.sideBar.location": "right",
+    "python.analysis.typeCheckingMode": "standard",
+    // "editor.hover.enabled": false
+}
